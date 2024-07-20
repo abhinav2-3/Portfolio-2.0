@@ -1,0 +1,147 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "ShoesKart",
+        "content": "This is an E-Commerce website inspired by Amazon. Implemented key features like Searching, Sorting, Product listing, Advanced filters, and Order Management",
+        "imgurl": "/projectSS/amazon-clone.jpeg",
+        "githubLink": "https://github.com/abhinav2-3/ShoesKart-Ecommerce.git",
+        "deployedLink": "https://shoes-kart-ecommerce.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Cloud Kitchen",
+        "content": "It is a Food Ordering plateform in which I Implemented key features like Searching, Sorting, Product listing, Dynamic Food size, Payment Gateway and Order Management",
+        "imgurl": "/projectSS/zomato-clone.webp",
+        "githubLink": "https://github.com/abhinav2-3/Cloud-Kitchen",
+        "deployedLink": "https://airstay.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Portfolio",
+        "content": "ReactJs was used to create the portfolio website. TailwindCSS and Framer motion were used to style the website. Aceternity is utilised as a content management system.",
+        "imgurl": "/projectSS/portfolio.jpg",
+        "githubLink": "https://github.com/abhinav2-3/abhinav.dev",
+        "deployedLink": "https://abhinav-dev.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Crypto Coin",
+        "content": "It is a Crypto Coin website that was built using Reactjs, Sass and Chart.js. It shows the information of all Crypto Coin with Chart.js",
+        "imgurl": "/projectSS/crypto-coin.jpg",
+        "githubLink": "https://github.com/Nick-h4ck3r/property-project",
+        "deployedLink": "https://crypto-app-roan-seven.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Atom.io",
+        "content": "The Atom.io website was built using MERN, Which is Social media plateform specially for developers. User can Create, Update and delete the Post. Follow, Profile, Skills and etc features are avialable.",
+        "imgurl": "/projectSS/social.png",
+        "githubLink": "https://github.com/abhinav2-3/atom.io",
+        "deployedLink": "https://dev-io-dun.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Motion DOCS",
+        "content": "This is a Motion DOCS, aesthetically pleasing, with modern animations. It is a landing page for a Google DOCS. The website was built using ReactJS, TailwindCSS, and Framer Motion.",
+        "imgurl": "/projectSS/motion-DOCS.webp",
+        "githubLink": "https://github.com/abhinav2-3/Draggable-Docs",
+        "deployedLink": "https://draggable-docs-ten.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          }
+        ]
+      }
+    ]
+  }
+}
